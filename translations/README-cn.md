@@ -525,7 +525,7 @@
     - [计算复杂性：第1部分](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20one)
     - [计算复杂性：第2部分](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20two)
 - [ ] [速查表](http://bigocheatsheet.com/)
-- [ ] [[复习] 5分钟内了解大O符号（视频）](https://youtu.be/__vX2sjlpXU)
+- [ ] [[回顾] 在 18 分钟内分析算法（播放列表）（视频）](https://www.youtube.com/playlist?list=PL9xmBV_5YoZMxejjIyFHWa-4nKg6sdoIv)
 
 好吧，差不多就到这里了。
 
@@ -1154,7 +1154,7 @@
 
 - [ ] 一系列2-3分钟的短主题视频（共23个视频）
     - [视频链接](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
-- [ ] 一系列2-5分钟的短主题视频 - Michael Sambol（共46个视频）：
+- [ ] 一系列2-5分钟的短主题视频 - Michael Sambol（共48个视频）：
     - [视频链接](https://www.youtube.com/@MichaelSambol)
     - [代码示例](https://github.com/msambol/dsa)
 - [ ] [Sedgewick的算法课程视频 - 算法I](https://www.coursera.org/learn/algorithms-part1)
@@ -1201,6 +1201,7 @@
 - [interviewing.io：与资深工程师进行模拟面试 ](https://interviewing.io) - 匿名算法/系统设计面试，与FAANG公司的资深工程师进行。
 - [Meetapro：与顶级FAANG面试官进行模拟面试 ](https://meetapro.com/?utm_source=ciu) - 类似Airbnb的模拟面试/指导平台。
 - [Hello Interview：与专家教练和人工智能模拟面试](https://www.hellointerview.com/?utm_source=ciu) - 直接与人工智能或 FAANG 员工工程师和经理面试。
+- [Codemia：通过人工智能或社区解决方案和反馈来练习系统设计问题](https://codemia.io/?utm_source=ciu) - 通过AI练习工具来解决系统设计问题。与社区分享你的解决方案，以获得反馈。.
   
 ## 当面试来临的时候
 
